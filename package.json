@@ -1,0 +1,29 @@
+{
+  "name": "hellomynameis",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Make your own \"Hello My Name Is\" graffiti sticker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMatias/hellomynameis.git"
+  },
+  "author": "cmatias",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CMatias/hellomynameis/issues"
+  },
+  "homepage": "https://github.com/CMatias/hellomynameis#readme",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}
